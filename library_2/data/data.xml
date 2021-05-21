@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+       <record id="library_book_1" model="library.books">
+           <field name="name">Curso de odoo</field>
+           <field name="isbn">202020</field>
+       </record>
+
+       <record id="library_book_2" model="library.books">
+           <field name="name">Curso de odoo para desarrolladores</field>
+           <field name="isbn">212121</field>
+       </record>
+
+    </data>
+</odoo>
